@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="feed_fragment_title">FeedTheCat</string>
+    <string name="image">image</string>
+    <string name="satiety">Satiety</string>
+    <string name="feed_button_text">FEED</string>
+    <string name="group">951006</string>
+    <string name="name">Igor Yanushkevich</string>
+<!--    <string name="satiety">Satiety</string>-->
+
+
+</resources>
